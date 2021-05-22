@@ -1,4 +1,4 @@
-# NgxWhellDateTimePicker
+# NgxWheelDateTimePicker
 Biblioteca de seletor de data e hora.
 
 
