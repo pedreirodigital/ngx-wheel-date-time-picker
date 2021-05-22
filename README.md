@@ -1,5 +1,5 @@
-# ngx-wheel-date-time-picker
-Componente data e hora
+# NgxWhellDateTimePicker
+Biblioteca de seletor de data e hora.
 
 
 # TODO List
