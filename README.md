@@ -1,6 +1,13 @@
 # NgxWheelDateTimePicker
 Biblioteca de seletor de data e hora.
 
+# Instalation
+
+# Get Started
+
+# Behavior Customization
+
+# Style Customization
 
 # TODO List
 - Implementação de data mínima (minDate)
